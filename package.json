@@ -1,7 +1,7 @@
 {
+  "homepage": "https://aditiaher.github.io/react-gh-pages",
   "name": "crypto-tracker",
   "version": "0.1.0",
-  "homepage": "https://aditiaher.github.io/react-gh-pages",
   "private": true,
   
   "dependencies": {
